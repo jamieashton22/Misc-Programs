@@ -1,0 +1,5 @@
+
+Aim: create python serial monitor using matplotlib 
+
+- Open port and get the data from serial - use existing code
+- plot it! 
